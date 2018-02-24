@@ -140,6 +140,8 @@ header a:hover{
 }
 
 .button_1{
+    -webkit-appearance: none;
+    -webkit-appearance: default-button;
     height: 38px;
     background: #cccccc;
     border: 0;
